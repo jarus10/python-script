@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity & Utilities Toolkit  
+ik# 🔐 Cybersecurity & Utilities Toolkit  
 
 This repository contains a collection of Python mini-projects that I built while learning **cybersecurity and Python programming**.  
 Each script focuses on a different concept: **network scanning, password security, and encryption techniques**.  
@@ -70,5 +70,7 @@ The idea behind this repo is to practice Python while applying it to real-world 
 
 ---
 
+## 📷Screenshots 
 
+Screenshots of each tool's output are available in the `screenshots/` folder.
 

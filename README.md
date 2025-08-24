@@ -17,7 +17,7 @@ The idea behind this repo is to practice Python while applying it to real-world 
 **Learning point**: I learned how to use external libraries (`python-nmap`) and also learnt about `virtual environment in Python` (virtualenv) and how network scanning reveals valuable security information.  
 
 ## 📷 Example Output:  
-![Password Manager Screenshot](screenshots/password_manager.png)  
+![Password Manager Screenshot](https://github.com/jarus10/python-script/blob/f31f6394a242a1fb54b618329907c7b5d36b1789/PS.png)  
 
 ---
 

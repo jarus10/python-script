@@ -53,7 +53,7 @@ The idea behind this repo is to practice Python while applying it to real-world 
 **Learning point**: I explored how encryption works at a fundamental level before moving to modern cryptography.  
 
 ## 📷 Example Output:  
-![Password Manager Screenshot](screenshots/password_manager.png) 
+![Password Manager Screenshot](https://github.com/jarus10/python-script/blob/184a11c792d67e1f58bc4ba5fb975153ebfe2086/CGC.png) 
 
 ---
 

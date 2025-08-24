@@ -29,7 +29,7 @@ The idea behind this repo is to practice Python while applying it to real-world 
 **Learning point**: I practiced using Python’s `random` and `string` modules to create secure passwords it was fun Learning.  
 
 ## 📷 Example Output:  
-![Password Manager Screenshot](screenshots/password_manager.png) 
+![Password Manager Screenshot](https://github.com/jarus10/python-script/blob/b5600a490fc9999d22eed8c9181cb29cc2dbddd6/PG.png) 
 
 ---
 

@@ -14,7 +14,10 @@ The idea behind this repo is to practice Python while applying it to real-world 
 - Identifies open ports, running services, and protocols.  
 - Helps understand how reconnaissance and network scanning works in cybersecurity.  
 
-**Learning point**: I learned how to use external libraries (`python-nmap`) and how network scanning reveals valuable security information.  
+**Learning point**: I learned how to use external libraries (`python-nmap`) and also learnt about `virtual environment in Python` (virtualenv) and how network scanning reveals valuable security information.  
+
+## 📷 Example Output:  
+![Password Manager Screenshot](screenshots/password_manager.png)  
 
 ---
 
@@ -23,7 +26,10 @@ The idea behind this repo is to practice Python while applying it to real-world 
 - Default length is 12 characters but can be customized.  
 - Demonstrates the importance of randomness in password security.  
 
-**Learning point**: I practiced using Python’s `random` and `string` modules to create secure passwords.  
+**Learning point**: I practiced using Python’s `random` and `string` modules to create secure passwords it was fun Learning.  
+
+## 📷 Example Output:  
+![Password Manager Screenshot](screenshots/password_manager.png) 
 
 ---
 
@@ -34,6 +40,9 @@ The idea behind this repo is to practice Python while applying it to real-world 
 
 **Learning point**: I understood why hashing is important in cybersecurity and how authentication systems work.  
 
+## 📷 Example Output:  
+![Password Manager Screenshot](screenshots/password_manager.png) 
+
 ---
 
 ### 4️⃣ Caesar Cipher  
@@ -43,13 +52,16 @@ The idea behind this repo is to practice Python while applying it to real-world 
 
 **Learning point**: I explored how encryption works at a fundamental level before moving to modern cryptography.  
 
+## 📷 Example Output:  
+![Password Manager Screenshot](screenshots/password_manager.png) 
+
 ---
 
 ## 🚀 How to Run  
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/cybersecurity-toolkit.git
+   git clone https://github.com/jarus/cybersecurity-toolkit.git
    cd cybersecurity-toolkit
 
 2. Run any script:
@@ -64,13 +76,17 @@ The idea behind this repo is to practice Python while applying it to real-world 
 ## 📌 Requirements 
 
 - Python 3.x
+- VS Code
 - Livraries:
   ```bash
   pip install python-nmap
 
 ---
 
-## 📷Screenshots 
+## ⚠️Disclaimer
 
-Screenshots of each tool's output are available in the `screenshots/` folder.
+This project is only for educational purposes only.
 
+Do not use these tools for malicious or unauthorised activities.
+ 
+Learnt alot enjoyed Learning thought errors.

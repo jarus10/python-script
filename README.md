@@ -62,7 +62,7 @@ The idea behind this repo is to practice Python while applying it to real-world 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/jarus10/python-script.git
-   cd cybersecurity-toolkit
+  
  
 2. Run any script:
    ```bash
@@ -77,10 +77,13 @@ The idea behind this repo is to practice Python while applying it to real-world 
 
 - Python 3.x
 - VS Code
-- Livraries:
+- Libraries:
   ```bash
+  -pip install python-nmap
+  -python -m venv env1
+  cd env1
+  source bin\activate
   pip install python-nmap
-
 ---
 
 ## ⚠️Disclaimer
@@ -89,4 +92,4 @@ This project is only for educational purposes only.
 
 Do not use these tools for malicious or unauthorised activities.
  
-Learnt alot enjoyed Learning thought errors.
+## Learnt alot enjoyed!! Learning thought errors.

@@ -1,4 +1,4 @@
-ik# 🔐 Cybersecurity & Utilities Toolkit  
+# 🔐 Cybersecurity & Utilities Toolkit  
 
 This repository contains a collection of Python mini-projects that I built while learning **cybersecurity and Python programming**.  
 Each script focuses on a different concept: **network scanning, password security, and encryption techniques**.  

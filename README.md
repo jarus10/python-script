@@ -61,5 +61,14 @@ The idea behind this repo is to practice Python while applying it to real-world 
 
 ---
 
-📌 Requirements 
+##📌 Requirements 
+
+- Python 3.x
+- Livraries:
+  ```bash
+  pip install python-nmap
+
+---
+
+
 

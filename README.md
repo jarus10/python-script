@@ -52,9 +52,14 @@ The idea behind this repo is to practice Python while applying it to real-world 
    git clone https://github.com/your-username/cybersecurity-toolkit.git
    cd cybersecurity-toolkit
 
-2.Run any script:
-  ```bash
-  python port_scanner.py
-  python password_generator.py
-  python password_manager.py
-  python caesar_cipher.py
+2. Run any script:
+   ```bash
+   python port_scanner.py
+   python password_generator.py
+   python password_manager.py
+   python caesar_cipher.py
+
+---
+
+📌 Requirements 
+

@@ -41,7 +41,7 @@ The idea behind this repo is to practice Python while applying it to real-world 
 **Learning point**: I understood why hashing is important in cybersecurity and how authentication systems work.  
 
 ## 📷 Example Output:  
-![Password Manager Screenshot](screenshots/password_manager.png) 
+![Password Manager Screenshot](https://github.com/jarus10/python-script/blob/d8d480dc24f1d3c2683efae0fe03fac68007ca8d/PM.png) 
 
 ---
 

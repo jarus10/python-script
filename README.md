@@ -61,9 +61,9 @@ The idea behind this repo is to practice Python while applying it to real-world 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/jarus/cybersecurity-toolkit.git
+   git clone https://github.com/jarus10/python-script.git
    cd cybersecurity-toolkit
-
+ 
 2. Run any script:
    ```bash
    python port_scanner.py
